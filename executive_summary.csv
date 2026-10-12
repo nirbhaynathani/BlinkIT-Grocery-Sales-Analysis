@@ -1,0 +1,11 @@
+Metric,Value
+Rows / item-outlet records,8523
+Distinct item identifiers,1559
+Distinct outlet identifiers,10
+Total recorded sales,1201681.49
+Average item rating,3.97
+Missing item-weight values (before cleaning),1463
+Exact duplicate rows,0
+Top category by recorded sales,Fruits and Vegetables
+Top outlet type by recorded sales,Supermarket Type1
+Top location tier by recorded sales,Tier 3
